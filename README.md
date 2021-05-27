@@ -9,7 +9,7 @@ I'm a Full Stack Developer based in Austria
     <img src="https://img.shields.io/badge/xing-%23126567.svg?&style=for-the-badge&logo=xing&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-## Hardware
+## My Workspace(s)
 
 ## GitHub Stats
 
