@@ -14,6 +14,7 @@ I'm a Full Stack Developer based in Austria
 ## My Workspace(s)
 
 <details>
+<summary>Click to expand!</summary>
 <p align='center'>
   💻 MacBook Pro 2019<br/><br/>
   <img src="https://img.shields.io/badge/macbook%20pro-%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
