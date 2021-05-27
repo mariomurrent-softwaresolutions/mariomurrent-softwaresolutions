@@ -1,5 +1,13 @@
 # Hi there 👋
 
+# Find me here
+<a href="https://www.linkedin.com/in/mario-murrent-872ab569/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.xing.com/profile/Mario_Murrent">
+    <img src="https://img.shields.io/badge/xing-%23126567.svg?&style=for-the-badge&logo=xing&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
 ## GitHub Stats
 
 [![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark)](https://github.com/mariomurrent-softwaresolutions)
