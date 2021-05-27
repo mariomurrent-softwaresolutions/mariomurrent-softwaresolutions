@@ -13,6 +13,7 @@ I'm a Full Stack Developer based in Austria
 
 ## My Workspace(s)
 
+<details>
 <p align='center'>
   💻 MacBook Pro 2019<br/><br/>
   <img src="https://img.shields.io/badge/macbook%20pro-%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
@@ -28,7 +29,8 @@ I'm a Full Stack Developer based in Austria
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
+</details>
+  
 ## GitHub Stats
 
 [![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark)](https://github.com/mariomurrent-softwaresolutions)
