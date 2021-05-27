@@ -2,12 +2,14 @@
 
 I'm a Full Stack Developer based in Austria
 
-<a href="https://www.linkedin.com/in/mario-murrent-872ab569/">
+<a href="https://www.linkedin.com/in/mario-murrent-872ab569/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.xing.com/profile/Mario_Murrent">
+  <a href="https://www.xing.com/profile/Mario_Murrent" target="_blank">
     <img src="https://img.shields.io/badge/xing-%23126567.svg?&style=for-the-badge&logo=xing&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+## Hardware
 
 ## GitHub Stats
 
