@@ -10,7 +10,7 @@ I'm a Full Stack Developer based in Austria
     <img src="https://img.shields.io/badge/xing-%23126567.svg?&style=for-the-badge&logo=xing&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/4040500/mario-murrent" target="_blank">
-    <img src="https://img.shields.io/badge/xing-%23126567.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/stackoverflow-%23126567.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
