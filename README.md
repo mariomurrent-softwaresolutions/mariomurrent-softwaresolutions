@@ -21,7 +21,7 @@ I'm a Full Stack Developer based in Austria
 <p align='center'>
   💻 MacBook Pro 2019<br/><br/>
   <img src="https://img.shields.io/badge/macbook%20pro-%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2019th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i9%2019th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/amd-Radeon%20Pro%205500M%201650-%23bd0000.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
