@@ -13,7 +13,7 @@ I'm a Full Stack Developer based in Austria
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.meecode.at" target="_blank">
-      <img src="https://img.shields.io/badge/Webpage-%230077B5.svg?&style=for-the-badge&logo=homebridge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webpage-%236b7a8f.svg?&style=for-the-badge&logo=homebridge&logoColor=white" />
   </a>
 </p>
 
