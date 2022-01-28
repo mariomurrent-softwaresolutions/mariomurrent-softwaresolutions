@@ -19,14 +19,15 @@ I'm a Full Stack Developer based in Austria
   
 ## GitHub Stats
 
-<div>
+<div style="display: flex">
 
   [![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark)](https://github.com/mariomurrent-softwaresolutions)
 
-  </div>
   
   [![Github Streaks](https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&theme=solarized-dark&show_icons=true&line_height=27&count_private=true)](https://github.com/mariomurrent-softwaresolutions)
 
+    </div>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Currently listening to
