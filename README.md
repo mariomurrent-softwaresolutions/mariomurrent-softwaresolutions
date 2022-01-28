@@ -19,8 +19,10 @@ I'm a Full Stack Developer based in Austria
   
 ## GitHub Stats
 
+<p>
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark" />
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&theme=solarized-dark&show_icons=true&line_height=27&count_private=true" />
+ </p>
  
   [![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark)](https://github.com/mariomurrent-softwaresolutions)
 
