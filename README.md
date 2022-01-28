@@ -34,6 +34,8 @@ I'm a Full Stack Developer based in Austria
   <img height="160" src="https://activity-graph.herokuapp.com/graph?username=mariomurrent-softwaresolutions&theme=dracula"/>
   </p>
   
+  ![GitHub metrics](https://metrics.lecoq.io/mariomurrent-softwaresolutions)  
+  
 ## Currently listening to
 
 [<img src="https://readme-spotify-status-mm-mariomurrent-softwaresolutions.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://github.com/mariomurrent-softwaresolutions)
