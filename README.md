@@ -25,7 +25,7 @@ I'm a Full Stack Developer based in Austria
  </p>
  
  <p align="center">
-  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true" />
+  <img height="260em" src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true" />
   </p>
 ## Currently listening to
 
