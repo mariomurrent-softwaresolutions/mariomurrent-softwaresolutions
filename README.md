@@ -25,8 +25,9 @@ I'm a Full Stack Developer based in Austria
  </p>
  
  <p align="center">
-  <img height="260em" src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true/columns=4" />
+  <img height="260em" src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true&columns=4" />
   </p>
+  
 ## Currently listening to
 
 [<img src="https://readme-spotify-status-mm-mariomurrent-softwaresolutions.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://github.com/mariomurrent-softwaresolutions)
