@@ -20,12 +20,12 @@ I'm a Full Stack Developer based in Austria
 ## GitHub Stats
 
 <p align="left">
- <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark" />
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&theme=solarized-dark&show_icons=true&line_height=27&count_private=true" />
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&theme=solarized-dark" />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&theme=solarized-dark&show_icons=true&line_height=27&count_private=true" />
  </p>
  
  <p align="left">
-  <img height="220em" src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true&column=4" />
+  <img height="230em" src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions&theme=onedark&no-frame=true&column=4" />
   </p>
   
 ## Activity
