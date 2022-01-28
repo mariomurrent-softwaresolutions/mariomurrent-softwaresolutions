@@ -23,6 +23,8 @@ I'm a Full Stack Developer based in Austria
 
 [![Github Streaks](https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&theme=solarized-dark&show_icons=true&line_height=27&count_private=true)](https://github.com/mariomurrent-softwaresolutions)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Currently listening to
 
 [<img src="https://readme-spotify-status-mm-mariomurrent-softwaresolutions.vercel.app/api/run-spotify-status" alt="I'm listening to" width="500" />](https://github.com/mariomurrent-softwaresolutions)
