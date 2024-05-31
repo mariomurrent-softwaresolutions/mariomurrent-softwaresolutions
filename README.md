@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Murrent</h1>
 <h3 align="center">A passionate full stack developer based in Austria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariomurrent-softwaresolutions&label=Profile%20views&color=0e75b6&style=flat" alt="mariomurrent-softwaresolutions" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions" alt="mariomurrent-softwaresolutions" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -31,4 +29,4 @@
 
 ## Visitors
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mariomurrent-softwaresolutions.visitor-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariomurrent-softwaresolutions&label=Profile%20views&color=0e75b6&style=flat" alt="mariomurrent-softwaresolutions" /> </p>
