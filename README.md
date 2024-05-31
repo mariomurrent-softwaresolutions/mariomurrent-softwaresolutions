@@ -22,10 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&" alt="mariomurrent-softwaresolutions" /></p>
   
 ## Activity
-
-<p align="left">
-  <img height="160" src="https://activity-graph.herokuapp.com/graph?username=mariomurrent-softwaresolutions&theme=dracula"/>
-  </p>
   
   ![GitHub metrics](https://metrics.lecoq.io/mariomurrent-softwaresolutions)  
   
