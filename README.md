@@ -17,8 +17,9 @@
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&show_icons=true&locale=en" alt="mariomurrent-softwaresolutions" /></p>
 </br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&" alt="mariomurrent-softwaresolutions" /></p>
-  </br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&" alt="mariomurrent-softwaresolutions" /></p>
+</br>
+  
 ## Activity
   
   ![GitHub metrics](https://metrics.lecoq.io/mariomurrent-softwaresolutions)  
