@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariomurrent-softwaresolutions" alt="mariomurrent-softwaresolutions" /></a> </p>
 </br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomurrent-softwaresolutions&show_icons=true&locale=en&layout=compact" alt="mariomurrent-softwaresolutions" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomurrent-softwaresolutions&show_icons=true&locale=en&layout=compact" alt="mariomurrent-softwaresolutions" /></p>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&show_icons=true&locale=en" alt="mariomurrent-softwaresolutions" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariomurrent-softwaresolutions&show_icons=true&locale=en" alt="mariomurrent-softwaresolutions" /></p>
 </br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mariomurrent-softwaresolutions&" alt="mariomurrent-softwaresolutions" /></p>
   
