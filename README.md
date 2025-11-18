@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Murrent</h1>
-<h3 align="center">A passionate full stack developer based in Austria</h3>
+<h3 align="center">A passionate full stack developer, consultant and network engineer based in Austria</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
