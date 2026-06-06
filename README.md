@@ -40,6 +40,19 @@ DevOps        Docker • GitLab CI/CD • Jenkins • Kubernetes
 
 CMS           Strapi • WordPress
 ```
+---
+
+## Current Focus
+
+```typescript
+const engineering = {
+  simplicity: true,
+  maintainability: true,
+  scalability: true,
+  userExperience: true,
+  overEngineering: false
+};
+```
 
 <p align="center">
   <i>Clean architecture. Reliable systems. Great user experiences.</i>
