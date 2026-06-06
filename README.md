@@ -45,6 +45,21 @@ CMS           Strapi • WordPress
 ## Current Focus
 
 ```typescript
+const focus = [
+  "React & TypeScript",
+  "React Native & Expo",
+  "System Architecture",
+  "CI/CD Automation",
+  "Developer Experience",
+  "Network Engineering"
+];
+```
+
+---
+
+## Philosophy 
+
+```typescript
 const engineering = {
   simplicity: true,
   maintainability: true,
