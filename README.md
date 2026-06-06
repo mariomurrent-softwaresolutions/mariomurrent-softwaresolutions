@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cv-mario.murrent.at">Website</a>
+  <a href="https://cv-mario.murrent.at">Website</a> • 
   <a href="https://meecode.at">Company Website</a>
 </p>
 
