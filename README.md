@@ -43,4 +43,3 @@ CMS           Strapi • WordPress
 <p align="center">
   <i>Clean architecture. Reliable systems. Great user experiences.</i>
 </p>
-```
