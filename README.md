@@ -39,3 +39,8 @@ Database      PostgreSQL • MySQL • MongoDB • Redis
 DevOps        Docker • GitLab CI/CD • Jenkins • Kubernetes
 
 CMS           Strapi • WordPress
+
+<p align="center">
+  <i>Clean architecture. Reliable systems. Great user experiences.</i>
+</p>
+```
